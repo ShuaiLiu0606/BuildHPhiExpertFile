@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/my_pro.dir/src/Lattice.cpp.o CMakeFiles/my_pro.dir/src/Model.cpp.o CMakeFiles/my_pro.dir/src/common.cpp.o CMakeFiles/my_pro.dir/src/main.cpp.o -o my_pro   -L/opt/intel/oneapi/mkl/latest/lib  -L/opt/intel/oneapi/compiler/latest/lib  -Wl,-rpath,/opt/intel/oneapi/mkl/latest/lib:/opt/intel/oneapi/compiler/latest/lib -lmkl_rt -lpthread -lm -ldl 
